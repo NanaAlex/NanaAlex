@@ -1,10 +1,10 @@
-<h1 align="center">Oiê! 🐾 Eu sou a Nana 💖</h1>
+<h1 align="center">Oii! 🐾 Eu sou a Nana 💖</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xThta0sQ9tLbxXBkRa/giphy.gif" width="180" alt="Hello Kitty waving" />
+  <img src="https://i.pinimg.com/originals/f5/b1/9b/f5b19b60a540d0b2c23f45a2a25fd86c.gif" width="180" alt="Hello Kitty waving" />
 </p>
 
-<p align="center"><i>✨ Estagiaria Dev full stack apaixonada por tecnologia, coisinhas fofas e jogos! ✨</i></p>
+<p align="center"><i>✨ Estagiária Dev full stack apaixonada por tecnologia, coisinhas fofas e jogos! ✨</i></p>
 
 ---
 
@@ -37,13 +37,13 @@
 
 ## 🌷 Vamos conversar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathacha-cardoso)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathacha-cardoso)  
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathachaalexsandra@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/pZ7k5w2jLB2l5JIk3N/giphy.gif" width="120" alt="Hello Kitty hugging" />
+  <img src="https://i.pinimg.com/originals/82/7b/1c/827b1c62b0655c108e818ce345d91d63.gif" width="120" alt="Hello Kitty hugging" />
 </p>
 
 <p align="center"><i>Obrigada por visitar meu perfil! Volte sempre ✨☕</i></p>
