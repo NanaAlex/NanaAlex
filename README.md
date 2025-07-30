@@ -1,7 +1,7 @@
 <h1 align="center">Oii! 🐾 Eu sou a Nana 💖</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f5/b1/9b/f5b19b60a540d0b2c23f45a2a25fd86c.gif" width="180" alt="Hello Kitty waving" />
+  <img src="https://i.pinimg.com/originals/c5/24/8e/c5248ed334ed6965c2167910024da02d.gif" width="180" alt="Hello Kitty waving" />
 </p>
 
 <p align="center"><i>✨ Estagiária Dev full stack apaixonada por tecnologia, coisinhas fofas e jogos! ✨</i></p>
