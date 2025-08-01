@@ -42,7 +42,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2b/fe/67/2bfe67249a27ab893868d152a07242bd.gif" width="120" alt="Hello Kitty hugging" />
+  <img src="https://i.pinimg.com/originals/1f/7e/95/1f7e952c4a4c7f2d7b7c2bf923baee67.gif" width="120" alt="Hello Kitty hugging" />
 </p>
 
 <p align="center"><i>Obrigada por visitar meu perfil! Volte sempre ✨☕</i></p>
