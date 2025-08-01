@@ -37,7 +37,7 @@
 
 ## 🌷 Vamos conversar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathacha-cardoso)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/nathacha-cardoso](https://www.linkedin.com/in/nathacha-cardoso-3000a32a2))  
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathachaalexsandra@gmail.com)
 
 ---
