@@ -4,7 +4,7 @@
   <img src="https://i.pinimg.com/originals/c5/24/8e/c5248ed334ed6965c2167910024da02d.gif" width="180" alt="Hello Kitty waving" />
 </p>
 
-<p align="center"><i>✨ Dev full stack apaixonada por tecnologia, coisinhas fofas e jogos! ✨</i></p>
+<p align="center"><i>✨Analista de Sistemas trainee apaixonada por tecnologia, coisinhas fofas e jogos! ✨</i></p>
 
 ---
 
