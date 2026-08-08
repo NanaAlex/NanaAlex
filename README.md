@@ -4,13 +4,13 @@
 
 🌸 Desenvolvedora em constante evolução.
 
-<img src="(https://i.pinimg.com/originals/b6/fb/8b/b6fb8bf800c143dc4507fd31d024c807.gif)" width="800" alt="Anime banner"/>
+<img src="https://i.pinimg.com/originals/b6/fb/8b/b6fb8bf800c143dc4507fd31d024c807.gif" width="800" alt="Anime banner"/>
 
 </div>
 
 <br>
 
-私について・Sobre mim
+### 私について・Sobre mim
 
 <p>
 🖥️ <b>Analista de Sistemas Trainee</b><br><br>
@@ -22,7 +22,7 @@
 
 <br>
 
-技術・Tech Stack
+### 技術・Tech Stack
 
 <div align="center">
 
@@ -52,14 +52,11 @@
 
 <br>
 
-統計・GitHub
+### 統計・GitHub
 
 <div align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=NanaAlex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanaAlex&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-
 </div>
 
 <br>
@@ -67,20 +64,14 @@
 ✦ Activity
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NanaAlex&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
 </div>
 
 <br>
 
-連絡先・Contato
+### 連絡先・Contato
 
 <div align="center">
-
-
-
-
 
 </div>
 
