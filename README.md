@@ -4,7 +4,7 @@
 
 🌸 Desenvolvedora em constante evolução.
 
-<img src="https://i.pinimg.com/originals/b6/fb/8b/b6fb8bf800c143dc4507fd31d024c807.gif" width="800" alt="Anime banner"/>
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/79654b43-cc3f-4305-ab8e-d424d38bdd56/dhg9ghh-0e3f839c-c5a8-4378-83dd-6a69d65761d0.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83OTY1NGI0My1jYzNmLTQzMDUtYWI4ZS1kNDI0ZDM4YmRkNTYvZGhnOWdoaC0wZTNmODM5Yy1jNWE4LTQzNzgtODNkZC02YTY5ZDY1NzYxZDAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rANDqRGpiKbaQd7_fZ3fVcG8dma6uafBCTTWBDFmp4M" width="800" alt="Anime banner"/>
 
 </div>
 
@@ -57,6 +57,22 @@
 <div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=NanaAlex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanaAlex&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</div>
+
+<br>
+
+✦ Streak
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NanaAlex&theme=tokyonight&hide_border=true&background=00000000" />
+</div>
+
+<br>
+
+✦ Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=NanaAlex&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 </div>
 
 <br>
