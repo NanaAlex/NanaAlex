@@ -16,7 +16,6 @@
 🖥️ <b>Analista de Sistemas Trainee</b><br><br>
 🌱 Sempre explorando novas tecnologias e expandindo meus conhecimentos<br><br>
 ⚡ Atualmente aprimorando minhas habilidades em <b>JavaScript</b> e <b>Progress 4GL</b><br><br>
-💾 Experiência com desenvolvimento web e banco de dados<br><br>
 🎮 Apaixonada por tecnologia, desenvolvimento e por transformar ideias em código
 </p>
 
@@ -55,8 +54,8 @@
 ### 統計・GitHub
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NanaAlex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanaAlex&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img width="45%" src="https://raw.githubusercontent.com/NanaAlex/NanaAlex/generated-images/generated/overview.svg#gh-dark-mode-only" />
+<img width="45%" src="https://raw.githubusercontent.com/NanaAlex/NanaAlex/generated-images/generated/languages.svg#gh-dark-mode-only" />
 </div>
 
 <br>
