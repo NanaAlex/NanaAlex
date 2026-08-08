@@ -4,7 +4,7 @@
 
 🌸 Desenvolvedora em constante evolução.
 
-<img src="https://i.pinimg.com/originals/b6/fb/8b/b6fb8bf800c143dc4507fd31d024c807.gif" width="800"/>
+<img src="./assets/banner.gif" width="800" alt="Anime banner"/>
 
 </div>
 
